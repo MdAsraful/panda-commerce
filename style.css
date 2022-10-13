@@ -20,3 +20,22 @@
     cursor: pointer;
 
 }
+.dog1, .dog2, .dog3{
+padding: 10px 30px;
+border-radius: 15px;
+}
+.dog1{
+    background-color: darkgoldenrod;
+}
+.dog2{
+    background-color: rgb(58, 165, 207);
+}
+.dog3{
+    background-color: rgb(27, 105, 27);
+}
+.categories h1{
+color: white;
+}
+.categories img{
+    width: 100px;
+}
